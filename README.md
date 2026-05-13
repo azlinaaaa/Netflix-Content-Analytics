@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project focuses on building a complete SQL-based Business Intelligence solution using Netflix content data. The project simulates how multinational companies (MNCs) use SQL analytics to transform raw datasets into strategic business insights for decision-making.
+This project focuses on building a complete SQL-based Business Intelligence solution using Netflix content data. The project simulates how to use SQL analytics to transform raw datasets into strategic business insights for decision-making.
 
 The project demonstrates real-world SQL workflows including:
 
@@ -17,7 +17,7 @@ The project demonstrates real-world SQL workflows including:
 - Temporary Tables
 - Views & Reporting Structures
 
-The objective of this project is to showcase strong analytical, technical, and problem-solving capabilities relevant to modern Data Analyst and Business Intelligence roles.
+The objective of this project is to showcase strong analytical, technical, and problem-solving capabilities
 
 ---
 
@@ -32,7 +32,7 @@ Streaming platforms such as Netflix continuously analyze massive amounts of cont
 - Which audience ratings dominate the platform?
 - How can content be segmented strategically?
 
-This project simulates how data teams in MNC environments support business stakeholders using SQL-driven analytics.
+This project simulates how data teams support business stakeholders using SQL-driven analytics.
 
 ---
 
@@ -535,12 +535,6 @@ Top-producing countries represent strategic markets with high content generation
 
 # 📌 Final Conclusion
 
-This project successfully demonstrates how SQL can be transformed from a querying language into a complete Business Intelligence solution capable of supporting strategic decision-making in enterprise environments.
+This project successfully demonstrates how SQL can be transformed from a querying language into a complete Business Intelligence solution capable of supporting strategic decision-making in business environments.
 
-The project reflects real-world analytical workflows used by multinational companies and showcases strong technical, analytical, and business intelligence capabilities suitable for:
-
-- Data Analyst Roles
-- Business Intelligence Analyst Roles
-- SQL Developer Roles
-- Data Operations Roles
-- Reporting Analyst Roles
+The project reflects real-world analytical workflows and showcases strong technical, analytical, and business intelligence capabilities.
